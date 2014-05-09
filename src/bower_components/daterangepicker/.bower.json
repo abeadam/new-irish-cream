@@ -1,0 +1,20 @@
+{
+  "name": "daterangepicker",
+  "version": "0.9.3",
+  "main": "lib/daterangepicker/daterangepicker.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "homepage": "https://github.com/BrandwatchLtd/daterangepicker",
+  "_release": "0.9.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.9.3",
+    "commit": "16ef17ab670061fe634ba396ec7d16211eaf83b7"
+  },
+  "_source": "git://github.com/BrandwatchLtd/daterangepicker.git",
+  "_target": "*",
+  "_originalSource": "daterangepicker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "daterangepicker",
+  "version": "0.9.3",
+  "main": "lib/daterangepicker/daterangepicker.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}

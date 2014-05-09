@@ -1,0 +1,25 @@
+{"name" : "new-irish-cream",
+  "version": "0.0.1",
+  "dependencies" : {
+	"jquery" : "latest",
+    "bootstrap" : "latest",
+	"backbone" : "latest",
+	"moment" : "latest",
+	"sugar" : "latest",
+	"handlebars" : "latest",
+	"select2" : "latest",
+	"bootstrap-datepicker" : "latest",
+	"backgrid" : "latest",
+	"backgrid-select-all" : "latest",
+	"backgrid-paginator" : "latest",
+	"daterangepicker" : "latest",
+	"backgrid-moment-cell" : "latest",
+	"backbone-pageable" : "1.4.8",
+	"jquery-timepicker" : "latest",
+	"highcharts" : "latest",
+	"nprogress" : "latest",
+	"backbone.stickit" : "latest",
+	"smooth-scroll" : "latest"
+  },
+  "private" : true
+}
