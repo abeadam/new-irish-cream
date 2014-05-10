@@ -8,21 +8,15 @@ motivation:
 
 # How to use this
 
-1. clone new-irish-cream in the parent directory of your poejct `git clone git@abeadam/new-irish-cream`
+1. clone new-irish-cream in the parent directory of your poejct `git clone git@abeadam/new-irish-cream`'
 
-2. install bower in your local project `npm install bower'
+2. copy bower.json and GruntFile.js and package.json to your project - you can append the content of devDependencies to your package.json if you already have one.
 
-3. install grunt in your local project `npm install grunt'
+3. run npm install
 
-4. copy bower.json and GruntFile.js and package.jsom to your project - you can append the content of devDependencies to your package.json if you already have one.
+4. edit bower.json to make it include only the libraries you care about
 
-5. run npm install bower
-
-6. run npm install
-
-7. edit bower.json to make it include only the libraries you care about
-
-8. run grunt file `grunt` 
+5. run grunt file `grunt` 
 
 now you will get a vendors folder tha has all the shared libraries
 
